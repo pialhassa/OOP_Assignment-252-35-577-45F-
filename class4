@@ -6,7 +6,6 @@ public class Main {
         a = 102422;
         b = -52423;
         c = 20234;
-
         float avg;
         avg = (float)(a + b + c) / 3;
 
