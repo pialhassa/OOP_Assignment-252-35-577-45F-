@@ -10,6 +10,5 @@ System.out.print("Saidpur");
               System.out.print("Bangladesh\t");
               System.out.print("Dhaka\t");
               System.out.print("Saidpur"); 
-
     }
 }
