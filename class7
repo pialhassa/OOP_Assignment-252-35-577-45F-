@@ -11,7 +11,7 @@ public class Main {
                 System.out.println("USA");
                 break;
             default:
-                System.out.println("Out of earth");
+                 System.out.println("Out of earth");
         }
     }
 }
