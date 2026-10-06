@@ -5,7 +5,7 @@ public class Main {
         int num = 45;
         if (num % 2 == 0) {
             System.out.println("EVEN");
-        } else {
+        } else { 
             System.out.println("ODD");
         }
     }
