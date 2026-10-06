@@ -11,7 +11,7 @@ public class Main {
         x = 5;
         System.out.println("Current value of x is: " + x++);
         System.out.println("Current value of x is: " + ++x);
-        x = 5;
+        x = 5; 
         System.out.println("Current value of x is: " + ++x);
         System.out.println("Current value of x is: " + x++);
         x = 4 + 3 * 4 / 2 - 7;
