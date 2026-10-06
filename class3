@@ -20,7 +20,6 @@ public class Main {
         char ting;
         ting = 'A';
         ting = '+';
-
         int x = 1000;
         System.out.println("Stipend of Student-1: " + (3.33 * x));
         System.out.println("Stipend of Student-2: " + (3.23 * x));
